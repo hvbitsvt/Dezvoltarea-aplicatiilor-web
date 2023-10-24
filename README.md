@@ -1,3 +1,3 @@
-# Dezvoltarea-aplicatiilor-web: proiect
+# Dezvoltarea aplicatiilor web: proiect
 
-Tema proiect: Activitatea unei agentii de turism
+Tema: Activitatea unei agentii de turism
