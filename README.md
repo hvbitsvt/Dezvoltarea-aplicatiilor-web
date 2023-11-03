@@ -2,7 +2,7 @@
 
 Temă: Activitatea unei agenții de turism
 
-Link site: https://travelflare.infinityfreeapp.com/?i=1 &nbsp; (site-ul nu este încă funcțional)
+Link site: https://travelflare.infinityfreeapp.com/?i=1 &nbsp; (site-ul nu este încă total funcțional)
 
 
 &nbsp;&nbsp;Rolul aplicației:
